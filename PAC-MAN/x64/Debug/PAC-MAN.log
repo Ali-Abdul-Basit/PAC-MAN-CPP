@@ -1,0 +1,3 @@
+﻿  PAC-MAN.cpp
+C:\Users\SK\Desktop\Ali's BSCS\CS1A\PROG.LAB\PAC-MAN\PAC-MAN\PAC-MAN.cpp(35,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PAC-MAN.vcxproj -> C:\Users\SK\Desktop\Ali's BSCS\CS1A\PROG.LAB\PAC-MAN\x64\Debug\PAC-MAN.exe
